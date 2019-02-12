@@ -1,4 +1,4 @@
-# binvox-rw-py (pyhon 3)
+# binvox-rw-py (python 3)
 
 Small Python module to read and write `.binvox` files. The voxel data is
 represented as dense 3-dimensional Numpy arrays in Python (a direct if somewhat
